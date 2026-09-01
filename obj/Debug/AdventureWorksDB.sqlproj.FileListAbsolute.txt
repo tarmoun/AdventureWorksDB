@@ -1,0 +1,5 @@
+C:\Users\Admin\AdventureWorksDB\bin\Debug\AdventureWorksDB.dacpac
+C:\Users\Admin\AdventureWorksDB\obj\Debug\Model.xml
+C:\Users\Admin\AdventureWorksDB\obj\Debug\refactor.xml
+C:\Users\Admin\AdventureWorksDB\obj\Debug\postdeploy.sql
+C:\Users\Admin\AdventureWorksDB\obj\Debug\predeploy.sql
